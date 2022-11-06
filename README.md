@@ -33,7 +33,7 @@
 
   스탭모터 제어(구동용)
 
-  SBC와 통신 프로토콜 구현(I2C)
+  SBC(Jetson nano)와 통신 프로토콜 구현(I2C)
 
 - python 제어 프로그램 개발 (Jetson nano)
 
@@ -60,9 +60,9 @@
 
   PWM 기반 서보모터 제어
 
-  SBC와 통신 프로토콜 구현(UART)
+  SBC(Raspberry pi 4와 통신 프로토콜 구현(UART)
 
-- ROS 기반 제어 프로그램 개발 (raspberry pi 4)
+- ROS 기반 제어 프로그램 개발 (Raspberry pi 4)
 
   SLAM 알고리즘 패키지를 이용한 매핑
 
