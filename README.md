@@ -60,7 +60,7 @@
 
   PWM 기반 서보모터 제어
 
-  SBC(Raspberry pi 4와 통신 프로토콜 구현(UART)
+  SBC(Raspberry pi 4)와 통신 프로토콜 구현(UART)
 
 - ROS 기반 제어 프로그램 개발 (Raspberry pi 4)
 
